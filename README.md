@@ -17,7 +17,7 @@
         - [x] 입력된 수는 양수만을 허용합니다.
 
 - Writer
-    - [ ] Reader에서 읽은 값을 `결과: %d` 형식으로 콘솔에 씁니다.
+    - [x] Reader에서 읽은 값을 `결과: %d` 형식으로 콘솔에 씁니다.
 
 - Exception case
     - [x] 모든 예외 케이스의 경우 `IllegalArgumentException`을 던집니다.
